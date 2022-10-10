@@ -3,11 +3,11 @@
 <div>
 <a href="https://github.com/Tiago2lucas">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiago2lucas&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-<br>
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tiago2lucas&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
 </div>
 
-<hr>
+
 
 ## Contatos:
 <div>
