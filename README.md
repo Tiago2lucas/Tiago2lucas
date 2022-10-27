@@ -10,10 +10,11 @@
 
 </div>
 
-
-![Contribution](https://activity-graph.herokuapp.com/graph?username=Tiago2lucas&theme=gotham&hide_border=true&area=true_color=&title_color=FF0000&=FF0000) 
+![Contribution](https://activity-graph.herokuapp.com/graph?username=Tiago2lucas&theme=gotham&hide_border=true&area=true_color=&title_color=FF0000&bg_color=000000&) 
 </div>
-## Contatos:
+
+### Contatos: :fax:
+
 <div>
 <a href = "mailto:tiagodop001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/tiago-lucas-558000253/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -21,7 +22,16 @@
 
 ![Snake animation](https://github.com/Tiago2lucas/Tiago2lucas/blob/output/github-contribution-grid-snake.svg)
 
-### Main skills:
+### Main skills:  :pushpin:
+<div>
+   <img width="10%" height="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
+ </div>
+ 
+ ### I'm updating:  :books:
+ <div>
+            <img  width="10%" height="90px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+            <img  width="10%" height="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+          </div>
 
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
@@ -31,9 +41,12 @@
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 
 ### Other Knowledge:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
+<div>
+ <img width="10%" height="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+  <img width="10%" height="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />    
+<img  width="10%" height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
+ 
+        
 
   
 ### Studying in this moment:
