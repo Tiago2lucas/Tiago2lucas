@@ -4,12 +4,15 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=TiagoLucas&show_icons=true&count_private=true&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=FF000&bg_color=000000&border_radius=10%" alt="Tiago Lucas Ferreira github stats" /> 
- 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Tiago2lucas&show_icons=true&count_private=true&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=FF000&bg_color=000000&border_radius=10%" alt="Tiago2lucas Ferreira github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiago2lucas&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=TiagoLucas&theme=gotham&hide_border=true&area=true&color=FF0000&title_color=FF0000&icon_color=C0C0C0&bg_color=000000)
+</div>
 
+
+![Contribution](https://activity-graph.herokuapp.com/graph?username=Tiago2lucas&theme=gotham&hide_border=true&area=true) 
+</div>
 ## Contatos:
 <div>
 <a href = "mailto:tiagodop001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -20,7 +23,6 @@
 
 ### Main skills:
 
- 
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
@@ -39,7 +41,7 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusAlvarez}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Tiago2lucas}/count.svg" /></p> 
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
