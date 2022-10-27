@@ -5,13 +5,13 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Tiago2lucas&show_icons=true&count_private=true&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=FF000&bg_color=000000&border_radius=10%" alt="Tiago2lucas Ferreira github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiago2lucas&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiago2lucas&layout=compact&hide_border=true&title_color=FF0000&text_color=FF0000&bg_color=000000" />
 </div>
 
 </div>
 
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=Tiago2lucas&theme=gotham&hide_border=true&area=true) 
+![Contribution](https://activity-graph.herokuapp.com/graph?username=Tiago2lucas&theme=gotham&hide_border=true&area=true&title_color=FF0000&) 
 </div>
 ## Contatos:
 <div>
