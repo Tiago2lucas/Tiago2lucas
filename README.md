@@ -5,7 +5,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=TiagoLucas&show_icons=true&count_private=true&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=FF000&bg_color=000000" alt="Tiago Lucas Ferreira github stats" /> 
-  <img width="41%" height="224px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoLucas&layout=compact&hide_border=true&title_color=FF0000&text_color=FF0000&bg_color=000000"/>
+  <img width="41%" height="223px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoLucas&layout=compact&hide_border=true&title_color=FF0000&text_color=FF0000&bg_color=000000"/>
 </div>
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=TiagoLucas&theme=gotham&hide_border=true&area=true&color=FF0000&title_color=FF0000&icon_color=C0C0C0&bg_color=000000)
