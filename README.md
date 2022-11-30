@@ -28,12 +28,7 @@
 <img  width="10%" height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
  </div>
  
- ### I'm updating:  :books:
- <div>
-            <img  width="10%" height="90px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-            <img  width="10%" height="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-            <img  width="10%" hight= "90px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    </div>
+
 
 ### Tools:
 <div>
@@ -43,13 +38,17 @@
 
                                                                                                                              
 ### Studying in this moment:
+ <div>
+            <img  width="10%" height="90px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+            <img  width="10%" hight= "90px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    </div>
 
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Tiago2lucas}/count.svg" /></p> 
 <br></div>
-
+<div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=07EE46&height=120&section=footer"/>
 
 
