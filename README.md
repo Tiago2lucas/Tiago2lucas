@@ -9,8 +9,7 @@
    <img height="244" width=45%  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiago2lucas&layout=compact&title_color=07EE46&text_color=07EE46&bg_color=000000" />
  </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=Tiago2lucas&theme=gotham&hide_border=true&area=true_color=&title_color=07EE46&bg_color=000000&color=07EE46) 
-
+![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Tiago2lucas&theme=gotham&hide_border=true&area=true_color=&title_color=07EE46&bg_color=000000&color=07EE46)
 ### Contatos: :fax:
 
 <div>
