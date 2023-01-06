@@ -17,7 +17,6 @@
 <a href="https://www.linkedin.com/in/tiago-lucas-558000253/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/Tiago2lucas/Tiago2lucas/blob/output/github-contribution-grid-snake.svg)
 
 ### Main skills:  :pushpin:
 <div>
@@ -40,15 +39,17 @@
  <div>
             <img  width="10%" height="90px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
             <img  width="10%" hight= "90px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    </div>
+            <img width="10%" hight="90px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
+          </div>
 
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Tiago2lucas}/count.svg" /></p> 
-<br></div>
+<br>
+</div>
 <div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=07EE46&height=120&section=footer"/>
-
+</div>
 
 
