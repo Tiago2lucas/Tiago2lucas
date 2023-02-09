@@ -18,12 +18,12 @@
 </div>
 
 
-### Main skills:  :pushpin:
+### dominant skill:  :pushpin:
 <div>
    <img width="10%" height="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
   <img width="10%" height="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img width="10%" height="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />    
-<img  width="10%" height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
+  <img width="10%" hight="90px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
  </div>
  
 
@@ -32,6 +32,7 @@
 <div>
   <img width="10%" height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"/>
   <img  width="10%" height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+ <img  width="10%" height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
         </div>
 
                                                                                                                              
@@ -39,7 +40,6 @@
  <div>
             <img  width="10%" height="90px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
             <img  width="10%" hight= "90px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-            <img width="10%" hight="90px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
           </div>
 
 
