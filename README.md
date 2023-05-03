@@ -10,6 +10,7 @@
  </div>
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Tiago2lucas&theme=gotham&hide_border=true&area=true_color=&title_color=07EE46&bg_color=000000&color=07EE46)
+ ![Snake animation](https://github.com/Tiago2lucas/Tiago2lucas/blob/output/github-contribution-grid-snake.svg)
 ### Contatos: :fax:
 
 <div>
@@ -47,9 +48,14 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Tiago2lucas}/count.svg" /></p> 
 <br>
+ 
 </div>
+
 <div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=07EE46&height=120&section=footer"/>
+ 
+ 
+ 
 </div>
 
 
