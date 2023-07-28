@@ -7,7 +7,7 @@
    <img height="245" width=45%  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiago2lucas&layout=compact&title_color=07EE46&text_color=07EE46&bg_color=000000"/>
  </div>
 
- ![Snake animation](https://github.com/Tiago2lucas/Tiago2lucas/blob/output/github-contribution-grid-snake.svg)
+ 
 ### Contatos: :fax:
 
 <div>
