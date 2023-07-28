@@ -23,6 +23,7 @@
   <img width="10%" height="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />    
   <img width="10%" hight="90px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
    <img  width="10%" height="90px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img width="10%" height="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg"/>
  </div>
  
 
@@ -37,7 +38,6 @@
                                                                                                                              
 ### Studying in this moment:
  <div>
-  <img width="10%" height="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg"/>
     </div>
 
 
