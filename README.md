@@ -38,7 +38,10 @@
                                                                                                                              
 ### Studying in this moment:
  <div>
-    </div>
+            <img   width="10%" height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+          
+ </div>
+  
 
 
 <div align="center">
