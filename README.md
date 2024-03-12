@@ -24,6 +24,7 @@
   <img width="10%" hight="90px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
    <img  width="10%" height="90px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img width="10%" height="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg"/>
+    <img   width="10%" height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
  </div>
  
 
@@ -31,16 +32,13 @@
 ### Tools:
 <div>
   <img width="10%" height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"/>
-  <img  width="10%" height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
  <img  width="10%" height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
+ <img width= "10%" height= "80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
         </div>
 
                                                                                                                              
 ### Studying in this moment:
- <div>
-            <img   width="10%" height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-          
- </div>
+ 
   
 
 
@@ -53,9 +51,6 @@
 
 <div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=07EE46&height=120&section=footer"/>
- 
- 
- 
 </div>
 
 
