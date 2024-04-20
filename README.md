@@ -1,56 +1,29 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=07EE46&height=120&section=header"/>
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BFD6D4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Tiago+Lucas;I'm+26+years+old;I+from+Paulista,+PE;I+study+computer+science+at+Universidade+Estácio;Be+Welcome!+:%29)](https://git.io/typing-svg)
- 
-<div align="center">  
- <p align="center"> <img height="265" width=54%  src="https://github-readme-stats.vercel.app/api?username=Tiago2lucas&show_icons=true&theme=gotham&title_color=07EE46&text_color=07EE46&bg_color=000000" alt="Tiago2lucas"/>
-   <img height="265" width=41%  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiago2lucas&layout=compact&title_color=07EE46&text_color=07EE46&bg_color=000000"/>
- </div>
 
- 
-### Contatos: :fax:
-
-<div>
-<a href = "mailto:tiagodop001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/tiago-lucas-558000253/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-
-
-### dominant skill:  :pushpin:
-<div>
-   <img width="10%" height="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
-  <img width="10%" height="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-  <img width="10%" height="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />    
-  <img width="10%" hight="90px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
-   <img  width="10%" height="90px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img width="10%" height="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg"/>
-    <img   width="10%" height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
- </div>
- 
-
-
-### Tools:
-<div>
-  <img width="10%" height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"/>
- <img  width="10%" height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
- <img width= "10%" height= "80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
-        </div>
-
-                                                                                                                             
-### Studying in this moment:
- 
-  
-
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Tiago2lucas}/count.svg" /></p> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BFD6D4&size=35&center=true&vCenter=true&width=1000&lines=Olá+Devs,+My+Name+is+Tiago+Lucas;I+from+Paulista,+PE;I+study+computer+science+at+Universidade+Estácio;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <br>
- 
-</div>
+<p align="left"> 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=07EE46&height=120&section=footer"/>
-</div>
+<p align="left"> 
+Eu trabalho principalmente com desenvolvimento back-end usando Java e Spring Framework. Tenho experiência em bancos de dados relacionais como MySQL e PostgreSQL, além de ter trabalhado com bancos de dados NoSQL como MongoDB.
 
 
+</p>
+
+<p align="left">
+  :woman_technologist: <strong>Linguagens:</strong>  C, Java, JavaScript, React-Native.
+</p>
+
+<p align="left">
+  :hammer_and_wrench: <strong >Ferramentas: </strong> GIT, Bootstrap, SpringBoot, IDE: (VisualStudio, IntelliJ).
+  Banco de dados Relacional: (MySql, PostgreSQL) noSQL:(MongoDB).
+  
+</p>
+
+
+<p align="left">
+  <a href="mailto:tiagodop001@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/tiago-lucas-558000253/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+    </p>
