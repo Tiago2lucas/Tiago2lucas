@@ -15,8 +15,8 @@ Eu trabalho principalmente com desenvolvimento back-end usando Java e Spring Fra
 </p>
 
 <p align="left">
-  :hammer_and_wrench: <strong >Ferramentas: </strong> GIT, Bootstrap, SpringBoot, IDE: (VisualStudio, IntelliJ).
-  Banco de dados Relacional: (MySql, PostgreSQL) noSQL:(MongoDB).
+  :hammer_and_wrench: <strong >Ferramentas: </strong> GIT, Bootstrap, SpringBoot, <br>IDE: (VisualStudio, IntelliJ).
+  <br>Banco de dados Relacional: (MySql, PostgreSQL) noSQL:(MongoDB).
   
 </p>
 
