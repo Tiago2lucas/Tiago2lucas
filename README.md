@@ -1,8 +1,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BFD6D4&size=35&center=true&vCenter=true&width=1000&lines=Olá+Devs,+My+Name+is+Tiago+Lucas;I+from+Paulista,+PE;I+study+computer+science+at+Universidade+Estácio;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <br>
+
 <p align="left"> 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnJyeHlyOGU0cHZ3ZG0yeDQ1ZGxuNWVzY2JvZTUzazJyMnM3MXRoeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QhFAk5pwEBXIVpKnJy/giphy.gif" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
 Eu trabalho principalmente com desenvolvimento back-end usando Java e Spring Framework. Tenho experiência em bancos de dados relacionais como MySQL e PostgreSQL, além de ter trabalhado com bancos de dados NoSQL como MongoDB.
